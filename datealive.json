@@ -1,0 +1,11 @@
+{
+  "id": "datealive",
+  "name": "datealive",
+  "prefix": "datealive",
+  "author": ["snowylight"],
+  "description": "jokers from datealive",
+  "main_file": "datealive.lua",
+  "priority": "88",
+  "badge_colour": "CC99FF",
+  "version": "1.4.0a",
+}
